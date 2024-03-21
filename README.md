@@ -4,7 +4,7 @@ My name is Edgar Tapia, currently I´m working as Sr. React Frontend Developer i
 
 Others things important about my are: 
 
- - I´m 35 years of experience in the world, other people say "age" but I like say Experience 
+ - I´m 36 years of experience in the world, other people say "age" but I like say Experience 
 
  - I´m a Bussiness Administrator, but the life put my here, and now I´ve more experience as developer than Administratator, and I have to said that I love create web apps more than FODAS 💻
 
